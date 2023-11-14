@@ -1,4 +1,18 @@
-### Hi there 👋
+# Dmytro Omelchuk 👨‍💻
+
+I am a frontend developer 🎨.
+
+## Skills 🏆
+
+* HTML 🕸️
+* CSS 🎨
+* JavaScript 📱
+* TypeScript 💻
+* React ⚛️
+* Redux 🔁
+* Next.js 🚀
+* GraphQL ✨
+* Git 🎸
 
 <!--
 **OmelDM/OmelDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
