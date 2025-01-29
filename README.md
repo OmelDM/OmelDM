@@ -1,6 +1,6 @@
 # Dmytro Omelchuk 👨‍💻
 
-I am a frontend developer 🎨.
+I am a Frontend Engineer 🎨.
 
 ## Skills 🏆
 
